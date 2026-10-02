@@ -48,7 +48,7 @@ I'm a passionate **Web Developer** with a strong eye for clean, modern, and user
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mariam807&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mariam807&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam807&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
